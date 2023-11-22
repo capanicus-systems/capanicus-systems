@@ -22,7 +22,7 @@ We are a software development company committed to helping businesses build and 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/capanicus) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/capanicus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/capanicus) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/capanicus) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/capanicus) 
 
 # 💻 Technology, Platforms and languages expertise:
-<h2> Frontend Web:</h2> Angular, React.js, Vue.js, PHP
+<h1> Frontend Web:</h1> Angular, React.js, Vue.js, PHP
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=capanicus-systems&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
